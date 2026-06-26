@@ -28,6 +28,10 @@ Credit to Nidula Elgiriyewithana for creating the dataset "Most Streamed Spotify
 - Data Analysis
 - Spotify Recommendation System
 
+## How to Run the Project
+
+- Using the CSV file provided with the code in teh Jupiter Notebook it can be run own the users own personal IDE (pycharm/VSC)
+
 ## Acknowledgement 
 
 I would like to express my gratitude to my data mining professor for teaching me the theoretical and practical application of concepts, and giving me the opportunity to do this project.
