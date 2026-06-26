@@ -1,5 +1,10 @@
 # Spotify Content Based Recommendation System 
 
+## __IMPORTANT__
+
+All the explaination for the code is on a PDF uploaded to canvas, because when I uploaded both explaination in the PDF and Jupiter Notebook, the plaglarism was 61% on Turnitin for another project of mine.
+Thank you for understanding!
+
 ## Dataset 
 This data was sourced from the website Kaggle:
 
@@ -27,6 +32,7 @@ Credit to Nidula Elgiriyewithana for creating the dataset "Most Streamed Spotify
 - Data Cleaning
 - Data Analysis
 - Spotify Recommendation System
+- Precision Metric
 
 ## How to Run the Project
 
